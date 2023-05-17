@@ -1,4 +1,4 @@
-# Here are My Coding Stickers Collection
+# Here is My Coding Stickers Collection
 ## Star 🌟 this repo if you like any.
 ### Feel free to add somthing if you like i will be very happy.
 ![](https://media0.giphy.com/media/wGMR0w1NMYv2qC84mw/giphy.webp?cid=ecf05e474gzxfy29c3dt31yiqw2fm2vl6mu7o1dv1v5enscx&ep=v1_gifs_related&rid=giphy.webp&ct=s)
