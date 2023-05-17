@@ -1,8 +1,8 @@
-<img src="anime (1).gif" /><img src="anime (1).gif" /><img src="anime (1).gif" /><img src="anime (1).gif" /> 
-<img src="anime-goku.gif"/><img src="anime-goku.gif"/><img src="anime-goku.gif"/><img src="anime-goku.gif"/>
-<img src="anime-animegirls.gif"/><img src="anime-animegirls.gif"/><img src="anime-animegirls.gif"/><img src="anime-animegirls.gif"/>
-<img src="anime-dance.gif" /><img src="anime-dance.gif" /><img src="anime-dance.gif" /><img src="anime-dance.gif" />
-<img src="anime-kızı-anime.gif"/><img src="anime-kızı-anime.gif"/><img src="anime-kızı-anime.gif"/><img src="anime-kızı-anime.gif"/>
+<img src="anime (1).gif" />
+<img src="anime-goku.gif"/>
+<img src="anime-animegirls.gif"/>
+<img src="anime-dance.gif" />
+<img src="anime-kızı-anime.gif"/>
 <img src="anime-twgok.gif"/>
 <img src="anime.gif"/>
 <img src="ao-t-attack-on-titan.gif"/>
