@@ -1,3 +1,6 @@
+# Previews of Gifs
+## if you like any give it a Star ⭐
+### would appreciate if some one gives something to add  
 <img src="anime (1).gif" />
 <img src="anime-goku.gif"/>
 <img src="anime-animegirls.gif"/>
