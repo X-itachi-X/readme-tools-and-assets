@@ -97,7 +97,7 @@
 ![](https://media3.giphy.com/media/Lm2hujbNpM7fi/200w.webp?cid=ecf05e47ptvo5gv9tt6eutxwb7tcc27yg298fg4o5s2n3njn&ep=v1_stickers_search&rid=200w.webp&ct=s)
 ![](https://media2.giphy.com/media/1BURfsUHbv4eQ/200.webp?cid=ecf05e47ptvo5gv9tt6eutxwb7tcc27yg298fg4o5s2n3njn&ep=v1_stickers_search&rid=200.webp&ct=s)
 ![](https://media0.giphy.com/media/kuWN0iF9BLQKk/200.webp?cid=ecf05e47ptvo5gv9tt6eutxwb7tcc27yg298fg4o5s2n3njn&ep=v1_stickers_search&rid=200.webp&ct=s)
-![]()
+![](https://media0.giphy.com/media/pVdIRN5bcu4e7VeWzi/giphy.webp?cid=ecf05e47883ygu5navkojxw5hxp8xzd7rdz4rnn9h22uycle&ep=v1_stickers_search&rid=giphy.webp&ct=s)
 ![]()
 ![]()
 ![]()
